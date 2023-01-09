@@ -3,14 +3,14 @@ module github.com/gin-gonic/gin
 go 1.18
 
 require (
-	github.com/bytedance/sonic v1.4.0
+	github.com/bytedance/sonic v1.6.1
 	github.com/gin-contrib/sse v0.1.0
 	github.com/go-playground/validator/v10 v10.11.1
 	github.com/goccy/go-json v0.9.11
 	github.com/json-iterator/go v1.1.12
 	github.com/mattn/go-isatty v0.0.16
 	github.com/pelletier/go-toml/v2 v2.0.2
-	github.com/stretchr/testify v1.8.0
+	github.com/stretchr/testify v1.8.1
 	github.com/ugorji/go/codec v1.2.7
 	golang.org/x/net v0.0.0-20221004154528-8021a29435af
 	google.golang.org/protobuf v1.28.1
@@ -18,7 +18,7 @@ require (
 )
 
 require (
-	github.com/chenzhuoyu/base64x v0.0.0-20220526154910-8bf9453eb81a // indirect
+	github.com/chenzhuoyu/base64x v0.0.0-20221115062448-fe3a3abad311 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/go-playground/locales v0.14.0 // indirect
 	github.com/go-playground/universal-translator v0.18.0 // indirect
